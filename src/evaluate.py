@@ -47,8 +47,8 @@ QUERIES = [
      ["tally", "excel"], ["accountant", "account"]),
     ("Project manager with Agile and leadership",
      ["agile", "leadership"], ["manager", "project"]),
-    ("Data entry operator with typing and MS Office",
-     ["ms office", "typing", "data entry"], ["data entry", "operator"]),
+    ("SAP consultant with ABAP and HANA",
+     ["sap", "abap", "hana"], ["consultant", "sap"]),
 ]
 
 

@@ -1,0 +1,12 @@
+Junior Data Analyst who knows SQL and Tableau           gold= 44  P@5=0.60  P@10=0.40  R@10=0.09
+Java developer with Spring and Oracle experience        gold= 65  P@5=0.60  P@10=0.70  R@10=0.11
+Software tester who knows Selenium and manual testing   gold= 25  P@5=0.80  P@10=0.80  R@10=0.32
+Web developer with HTML, CSS and JavaScript             gold= 21  P@5=0.20  P@10=0.30  R@10=0.14
+Network engineer with CCNA and routing                  gold= 18  P@5=0.60  P@10=0.50  R@10=0.28
+Customer support executive with good communication      gold=  8  P@5=0.20  P@10=0.20  R@10=0.25
+UI designer with Photoshop and user experience          gold= 34  P@5=0.40  P@10=0.30  R@10=0.09
+Accountant who knows Tally and Excel                    gold=  1  P@5=0.20  P@10=0.10  R@10=1.00
+Project manager with Agile and leadership               gold=  5  P@5=0.00  P@10=0.00  R@10=0.00
+SAP consultant with ABAP and HANA                       gold= 15  P@5=0.80  P@10=0.70  R@10=0.47
+
+Mean P@5=0.44  P@10=0.4  R@10=0.274  (n=10 queries, pool=220 resumes)

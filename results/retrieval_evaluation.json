@@ -1,0 +1,89 @@
+{
+  "n_queries": 10,
+  "pool_size": 220,
+  "mean_precision_at_5": 0.44,
+  "mean_precision_at_10": 0.4,
+  "mean_recall_at_10": 0.274,
+  "queries": [
+    {
+      "query": "Junior Data Analyst who knows SQL and Tableau",
+      "n_gold_in_pool": 44,
+      "precision_at_5": 0.6,
+      "precision_at_10": 0.4,
+      "recall_at_10": 0.091,
+      "retrieved_top5": "test-003; train-002; test-015; train-041; train-104"
+    },
+    {
+      "query": "Java developer with Spring and Oracle experience",
+      "n_gold_in_pool": 65,
+      "precision_at_5": 0.6,
+      "precision_at_10": 0.7,
+      "recall_at_10": 0.108,
+      "retrieved_top5": "train-004; train-000; train-034; train-164; train-050"
+    },
+    {
+      "query": "Software tester who knows Selenium and manual testing",
+      "n_gold_in_pool": 25,
+      "precision_at_5": 0.8,
+      "precision_at_10": 0.8,
+      "recall_at_10": 0.32,
+      "retrieved_top5": "test-016; train-163; train-170; train-080; train-106"
+    },
+    {
+      "query": "Web developer with HTML, CSS and JavaScript",
+      "n_gold_in_pool": 21,
+      "precision_at_5": 0.2,
+      "precision_at_10": 0.3,
+      "recall_at_10": 0.143,
+      "retrieved_top5": "train-062; train-151; train-032; train-123; train-026"
+    },
+    {
+      "query": "Network engineer with CCNA and routing",
+      "n_gold_in_pool": 18,
+      "precision_at_5": 0.6,
+      "precision_at_10": 0.5,
+      "recall_at_10": 0.278,
+      "retrieved_top5": "train-015; train-055; test-013; train-056; train-013"
+    },
+    {
+      "query": "Customer support executive with good communication",
+      "n_gold_in_pool": 8,
+      "precision_at_5": 0.2,
+      "precision_at_10": 0.2,
+      "recall_at_10": 0.25,
+      "retrieved_top5": "train-140; train-169; train-136; train-143; train-122"
+    },
+    {
+      "query": "UI designer with Photoshop and user experience",
+      "n_gold_in_pool": 34,
+      "precision_at_5": 0.4,
+      "precision_at_10": 0.3,
+      "recall_at_10": 0.088,
+      "retrieved_top5": "train-177; train-059; train-092; train-156; train-194"
+    },
+    {
+      "query": "Accountant who knows Tally and Excel",
+      "n_gold_in_pool": 1,
+      "precision_at_5": 0.2,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "retrieved_top5": "train-197; test-015; train-178; train-192; train-011"
+    },
+    {
+      "query": "Project manager with Agile and leadership",
+      "n_gold_in_pool": 5,
+      "precision_at_5": 0.0,
+      "precision_at_10": 0.0,
+      "recall_at_10": 0.0,
+      "retrieved_top5": "train-009; train-051; train-140; train-098; train-187"
+    },
+    {
+      "query": "SAP consultant with ABAP and HANA",
+      "n_gold_in_pool": 15,
+      "precision_at_5": 0.8,
+      "precision_at_10": 0.7,
+      "recall_at_10": 0.467,
+      "retrieved_top5": "train-048; train-028; train-014; train-194; train-072"
+    }
+  ]
+}

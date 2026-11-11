@@ -1,0 +1,11 @@
+query,n_gold_in_pool,precision_at_5,precision_at_10,recall_at_10,retrieved_top5
+Junior Data Analyst who knows SQL and Tableau,44,0.6,0.4,0.091,test-003; train-002; test-015; train-041; train-104
+Java developer with Spring and Oracle experience,65,0.6,0.7,0.108,train-004; train-000; train-034; train-164; train-050
+Software tester who knows Selenium and manual testing,25,0.8,0.8,0.32,test-016; train-163; train-170; train-080; train-106
+"Web developer with HTML, CSS and JavaScript",21,0.2,0.3,0.143,train-062; train-151; train-032; train-123; train-026
+Network engineer with CCNA and routing,18,0.6,0.5,0.278,train-015; train-055; test-013; train-056; train-013
+Customer support executive with good communication,8,0.2,0.2,0.25,train-140; train-169; train-136; train-143; train-122
+UI designer with Photoshop and user experience,34,0.4,0.3,0.088,train-177; train-059; train-092; train-156; train-194
+Accountant who knows Tally and Excel,1,0.2,0.1,1.0,train-197; test-015; train-178; train-192; train-011
+Project manager with Agile and leadership,5,0.0,0.0,0.0,train-009; train-051; train-140; train-098; train-187
+SAP consultant with ABAP and HANA,15,0.8,0.7,0.467,train-048; train-028; train-014; train-194; train-072

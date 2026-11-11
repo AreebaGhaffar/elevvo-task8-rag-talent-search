@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+# Data & models (re-download with download_data.py / download_models.py)
+data/
+models/
+outputs/
+chroma_db/
+.streamlit/
+# Results are tracked (small CSV/JSON/MD), but large artefacts are not
+results/*.parquet

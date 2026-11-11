@@ -1,0 +1,8 @@
+# Example recruiter queries (tested; outputs in results/search_examples.txt)
+Find me a Junior Data Analyst who knows SQL and Tableau
+Java developer with Spring and Oracle experience
+Software tester who knows Selenium and manual testing
+SAP consultant with ABAP and HANA
+# Example per-candidate questions (cli.py ask)
+# Does this candidate have leadership experience?
+# What programming languages does this candidate know?

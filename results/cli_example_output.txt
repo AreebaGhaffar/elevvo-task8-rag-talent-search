@@ -1,0 +1,10 @@
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Candidate: Hartej Kathuria (train-002)
+Q: Does this candidate have leadership experience?
+A: Not stated in this resume.  (method: llm)
+Evidence: Hartej Kathuria Data Analyst Intern - Oracle Retail  Bengaluru, Karnataka - Email me on Indeed: indeed.com/r/Hartej-Kathuria/04181c5962a4af19  Willing to relocate to: Delhi - Bangalore, Karnataka - Gurgaon, Haryana  WORK EXPERIENCE  Data Analyst Intern  Oracle Retail -  Bengaluru, Karnataka -  June 
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Candidate: Hartej Kathuria (train-002)
+Q: What programming languages does this candidate know?
+A: Python, R, SQL, NoSQL, Predictive Modelling, Market Basket Analysis, Sentimental Analysis, Clustering, Bash Scripting (Preliminary), Socket  (method: llm)
+Evidence: Tool used: R  https://www.indeed.com/r/Hartej-Kathuria/04181c5962a4af19?isid=rex-download&ikw=download-top&co=IN   Predict the Happiness (Sentimental Analysis)  The objective of this project was to build a binary classifcation model for the data provided by TripAdvisor consisiting of a sample of hot

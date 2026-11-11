@@ -1,0 +1,152 @@
+Query: Find me a Junior Data Analyst who knows SQL and Tableau
+
+1. Alok Khandai — Operational Analyst (SQL DBA) Engineer (score 0.596)
+   Skills: ❖ Operating Environment: […] Windows95/98/XP/NT
+❖ Database Tool: SQL Management Studio (MSSQL), Business
+Development Studio, Visual studio 2005
+❖ Database Language: SQL, PL/SQL
+❖ Ticket Tracking Tool:
+   Companies: UNISYS
+   Evidence [WORK EXPERIENCE]: Operational Analyst (SQL DBA) Engineer UNISYS - Bengaluru, Karnataka - July 2016 to Present ❖ Having 3.5 Years of IT experience in SQL Database Administration, System Analysis, Design, Development & Support of MS SQL Ser
+2. Hartej Kathuria — Data Analyst Intern (score 0.588)
+   Skills: Languages & Technologies: Python, R, SQL, NoSQL, Predictive Modelling,
+Market Basket Analysis, Sentimental Analysis, Clustering, Bash
+Scripting (Preliminary), Socket Programming, Java (Preliminary)
+
+•
+   Companies: Oracle Retail
+   Evidence [WORK EXPERIENCE]: Data Analyst Intern Oracle Retail - Bengaluru, Karnataka - June 2017 to Present Job Responsibilities: o As an intern part of the Global Retail Insights team at Oracle Retail, work involved creating a data oriented buisne
+3. Meenalochani Kondya — Systems Engineer (score 0.539)
+   Skills: ASP (1 year), ASP.NET (1 year), MS ASP (1 year), .NET (1 year), ENGINEER (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Languages C#, MVC 4.0, ASP.NET, JavaScript, JQuery, AJAX, Windows
+   Companies: Infosys Bangalore
+   Evidence [GENERAL]: Meenalochani Kondya Systems Engineer, Infosys Bangalore Bangalore Urban, Karnataka - Email me on Indeed: indeed.com/r/Meenalochani- Kondya/81e406bd03e7a6d2 • Completed M.Tech Software Systems with specialization in Data 
+4. Nazish Alam — Consultant (score 0.521)
+   Skills: • Trained on SAP S4 HANA.
+• Having knowledge of Code Push down, CDS view and it's consumption in ABAP.
+• Data Modeling, creation of different type of views.
+• AMDP.
+• ADBC connectivity.
+• Familiar wit
+   Companies: SAP ABAP
+   Evidence [ADDITIONAL INFORMATION]: OTHER TECHNICAL SKILLS • Trained on SAP S4 HANA. • Having knowledge of Code Push down, CDS view and it's consumption in ABAP. • Data Modeling, creation of different type of views. • AMDP. • ADBC connectivity. • Familiar 
+5. Darshan G. — Process associate | Financial Analyst (score 0.514)
+   Skills: Tally | Excel | Cloud application | Oracle application
+   Companies: Oracle | Accenture
+   Evidence [ADDITIONAL INFORMATION]: Technical Skills: Oracle application (Rx11) & Cloud application. Computer skills: MS Excel, Tally Project: Project Title: Education loan scheme in credited system. Company name: Corporation bank, Bangalore Team size: 1
+6. Akash Gulhane — Microsoft Certified System Engineer (score 0.510)
+   Skills: Database:
+MS-Access
+Other:
+Hardware & Networking, Core Java, C, C++
+   Evidence [WORK EXPERIENCE]: Microsoft Certified System Engineer - 2012 to 2012 Technical Skills: CCNA (Cisco Certified Network Associate) Database: MS-Access Other: Hardware & Networking, Core Java, C, C++ Operating Systems: Windows server O.S 2012
+7. Sanand Pal — Assistant Consultant | SQL and MSBI Developer (score 0.509)
+   Skills: Sql Server, Ssis, T-SQL, ETL, SSRS
+   Companies: TCS
+   Evidence [GENERAL]: Sanand Pal SQL and MSBI Developer with experience in Azure SQL and Data Lake store. Hyderabad, Telangana - Email me on Indeed: indeed.com/r/Sanand-Pal/5c99c42c3400737c I intend to establish myself as Software Engineer / 
+8. Karthik Gururaj — Technical Lead (score 0.502)
+   Companies: Infosys Ltd
+   Evidence [WORK EXPERIENCE]: Technical Lead at Infosys Ltd. Pharmaceuticals and Life Sciences Domain - May 2017 to Present Have been taking care of Oncology Datamart with Several Oncology Data Requests and Data Analysis for the past 3+ Years. • Curr
+9. Kasturika Borah — Team Member (score 0.501)
+   Skills: • Programming Languages: Python, XML
+• Database: Maria-DB, sql
+• Cisco Monitoring Tools: EM7
+• Operating Systems: Windows/XP
+• Reporting Tools: Vportal, Splunk
+• Application & Web Servers: Sciencelogi
+   Companies: Cisco
+   Evidence [GENERAL]: ing, analysis, design and coding. • Experience in coding Python, SQL, and XML as per the requirement. • Have knowledge in Event generating using traps and Syslog's generator. • Exposure to Agile methodologies using Scrum
+10. Sowmya Karanth — Finance Analyst (score 0.499)
+   Skills: ERP | Microsoft office, ERP, Oracle SQL | Microsoft office | MS OFFICE | ENTERPRISE RESOURCE PLANNING | EMPLOYEE RESOURCE GROUP
+   Companies: Oracle India Pvt ltd
+   Evidence [ADDITIONAL INFORMATION]: /INTERESTS * Computer skills - Microsoft office, ERP, Oracle SQL
+
+Bias check — top-10 vs pool of 220 resumes
+  graduation cohort: 2006-2012 pool 20% -> retrieved 50%; 2013 or later pool 21% -> retrieved 30%; unknown pool 53% -> retrieved 20%
+  college: other colleges pool 83% -> retrieved 90%; unknown pool 12% -> retrieved 10%; top-5 colleges pool 6% -> retrieved 0%
+  location: bengaluru pool 22% -> retrieved 40%; hyderabad pool 10% -> retrieved 20%; amravati pool 0% -> retrieved 10%
+  experience band: unknown pool 85% -> retrieved 100%; junior (<3 yrs) pool 6% -> retrieved 0%; mid (3-7 yrs) pool 7% -> retrieved 0%
+  FLAGS:
+    ! graduation cohort: '2006-2012' is 50% of the retrieved top-10 but 20% of the pool (diff +30 pp)
+    ! graduation cohort: 'unknown' is 20% of the retrieved top-10 but 53% of the pool (diff -33 pp)
+  Note: only explicitly labelled attributes are checked; no protected attribute is inferred from names.
+Query: Java developer with Spring and Oracle experience
+
+1. Imgeeyaul Ansari — Application Developer | java developer (score 0.602)
+   Skills: rogramming Languages :C/C++, angular, java, java servlet, HTML, java script, MySQL, css, jsff.
+
+Operating Systems Linux, Windows, Android
+
+ORM Eclipse Link, Hibernate
+
+Framework & tools :ADF, Eclipse,
+   Companies: Oracle Financial Software Services
+   Evidence [WORK EXPERIENCE]: Application Developer Oracle Financial Software Services - Pune, Maharashtra - August 2016 to Present • Wrote Services in java using data annotation which in turn were used for creating other files using code generation 
+2. Govardhana K — Associate Consultant | Staff Consultant | Senior Consultant | Senior Software Engineer (score 0.601)
+   Skills: Languages: Core Java, Go Lang, Data Structures & Algorithms, Oracle
+PL-SQL programming, Sales Force with APEX.
+Tools: RADTool, Jdeveloper, NetBeans, Eclipse, SQL developer,
+PL/SQL Developer, WinSCP, P
+   Companies: Oracle | Cloud Lending Solutions
+   Evidence [ADDITIONAL INFORMATION]: Technical Proficiency: Languages: Core Java, Go Lang, Data Structures & Algorithms, Oracle PL-SQL programming, Sales Force with APEX. Tools: RADTool, Jdeveloper, NetBeans, Eclipse, SQL developer, PL/SQL Developer, WinSCP
+3. PRASHANTH BADALA — Configuration Engineer | Cloud Engineer | Devops Engineer (score 0.597)
+   Skills: CHEF | AWS | weblogic | Docker | jenkins | devops | maven | svn | git | Linux | Configuration Tools | Cloud | UDeploy,Jenkins | Shell Scripting and Python | Maven 3 | Jenkins 1.6, Hudson | WebLogic 11
+   Companies: Oracle
+   Evidence [EDUCATION]: JDBC Data source and Connection pool configuration with Oracle. Web Logic Administration, Monitoring and Troubleshooting using Admin Console. • Have excellent experience in Client Interaction • Provided on call support f
+4. Palani S — Senior Technology Support Executive (score 0.583)
+   Companies: Infosys
+   Evidence [WORK EXPERIENCE]: Senior Technology Support Executive at Infosys Development - Chennai, Tamil Nadu - May 2015 to Present WORK EXPERINCE • Currently Working as Senior Technology Support Executive at Infosys, Chennai from May 2015 to till d
+5. Sai Patha — Software Engineer | Mule ESB Integration Developer (score 0.580)
+   Skills: Languages Java, Java Script, PL/SQL, SQL SERVER, HTML, XML,
+XSLT
+Application Servers J Boss, Apache Tomcat, Web logic, IBM web sphere
+
+Databases Oracle, SQL SERVER
+
+Development Tools MVC, Singleton, S
+   Companies: Arrow Electronics Inc | Cisco Systems
+   Evidence [GENERAL]: he environment. • Very strong debugging skills. • Expertise in implementing different J2EE design patterns and Java Multi-Threading. • Hands on experience in creating Splunk dashboard, App for production proactive monito
+6. Ashok Kunam — Team Lead (score 0.579)
+   Skills: • Programming Languages: Java & J2EE, PHP, Apache Nifi, SOAP Web Services, Rest Web Services,
+Jackson-2
+• Framework's: Spring, Hibernate, Junit, Mockito
+• Database: MYSQL, SQL Server, Oracle
+• App/Web
+   Companies: Microsoft
+   Evidence [TECHNICAL SKILLS]: • Programming Languages: Java & J2EE, PHP, Apache Nifi, SOAP Web Services, Rest Web Services, Jackson-2 • Framework's: Spring, Hibernate, Junit, Mockito • Database: MYSQL, SQL Server, Oracle • App/Web Servers: Tomcat, Ap
+7. Ijas Nizamuddin — Associate Consultant (score 0.576)
+   Skills: Languages: Core Java
+Front end/GUI Tools programming: Adobe Flex, GWT
+Database: Oracle 10g
+IDE: Eclipse, FlexBuilder
+FrameWorks: Spring(Basics), MVC frame work
+Operating System: Windows, Linux, Unix
+   Companies: Oracle Corporation | State Street
+   Evidence [ADDITIONAL INFORMATION]: SKILL SET: Languages: Core Java Front end/GUI Tools programming: Adobe Flex, GWT Database: Oracle 10g IDE: Eclipse, FlexBuilder FrameWorks: Spring(Basics), MVC frame work Operating System: Windows, Linux, Unix
+8. Srinivas VO — Sr. Test Manager | QA Manager (score 0.552)
+   Skills: Testing (10+ years), Program Management (10+ years), Automation Testing (10+ years),
+Selenium Webdriver (4 years), Project Management (10+ years), Java (10+ years), AWS (10+
+years), Cloud Computing (4
+   Evidence [GENERAL]: timations. ● Extensive experience on bid management, PMO process, risk management and prepared project management office documents. ● Expertise in building automation frameworks for Front to back testing of Retail / Heal
+9. Shrishti Chauhan — Technical Consultant (score 0.544)
+   Skills: Oracle | Xml, Oracle MFT, Core Java, Oracle SOA, WSDL, ODI
+   Companies: Oracle | Oracle Fusion Middleware
+   Evidence [SKILLS]: Xml, Oracle MFT, Core Java, Oracle SOA, WSDL, ODI
+10. Rohit Bijlani — JAVA Developer/Senior Systems Engineer (score 0.544)
+   Companies: INFOSYS LIMITED
+   Evidence [SKILLS]: J2Ee, Sql server, Core Java, Spring mvc, Hibernate, Spring
+
+Bias check — top-10 vs pool of 220 resumes
+  graduation cohort: 2006-2012 pool 20% -> retrieved 50%; 2013 or later pool 21% -> retrieved 40%; unknown pool 53% -> retrieved 10%
+  college: other colleges pool 83% -> retrieved 100%; top-5 colleges pool 6% -> retrieved 0%; unknown pool 12% -> retrieved 0%
+  location: hyderabad pool 10% -> retrieved 20%; bengaluru pool 22% -> retrieved 10%; bilaspur pool 0% -> retrieved 10%
+  experience band: unknown pool 85% -> retrieved 90%; junior (<3 yrs) pool 6% -> retrieved 10%; mid (3-7 yrs) pool 7% -> retrieved 0%
+  FLAGS:
+    ! graduation cohort: '2006-2012' is 50% of the retrieved top-10 but 20% of the pool (diff +30 pp)
+    ! graduation cohort: 'unknown' is 10% of the retrieved top-10 but 53% of the pool (diff -43 pp)
+  Note: only explicitly labelled attributes are checked; no protected attribute is inferred from names.

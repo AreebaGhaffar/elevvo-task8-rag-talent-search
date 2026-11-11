@@ -14,14 +14,16 @@ proof of discrimination: small pools (220 resumes) and genuinely
 skill-linked attributes (e.g. a niche college for a niche skill) can
 produce skew for legitimate reasons.
 """
+import re
+
 import pandas as pd
 
 FLAG_THRESHOLD = 25.0  # percentage points
 
 
 def _cohort(grad_year: str) -> str:
-    try:
-        y = int(str(grad_year).strip())
+    try:  # values arrive as "2017.0" (pandas wrote the year as a float)
+        y = int(float(str(grad_year).strip()))
     except (TypeError, ValueError):
         return "unknown"
     if y <= 2005:
@@ -29,6 +31,31 @@ def _cohort(grad_year: str) -> str:
     if y <= 2012:
         return "2006-2012"
     return "2013 or later"
+
+
+_CITY_VARIANTS = {
+    "bangalore": "bengaluru",
+    "bangalore urban": "bengaluru",
+    "bengaluru urban": "bengaluru",
+    "bombay": "mumbai",
+    "madras": "chennai",
+}
+
+
+def _city(location: str) -> str:
+    loc = str(location).strip().lower()
+    loc = re.sub(r",.*$", "", loc).strip()  # drop ", Karnataka" etc.
+    return _CITY_VARIANTS.get(loc, loc) or "unknown"
+
+
+def _college_group(college: str, top5: set[str]) -> str:
+    """Colleges are nearly unique in this pool (~190 distinct for 194
+    labelled resumes), so per-college shares are meaningless; compare the
+    combined share of the 5 most common colleges instead."""
+    c = str(college).strip()
+    if not c:
+        return "unknown"
+    return "top-5 colleges" if c in top5 else "other colleges"
 
 
 def _exp_band(years) -> str:
@@ -45,26 +72,24 @@ def _exp_band(years) -> str:
     return "senior (>7 yrs)"
 
 
-def _top_value(series: pd.Series) -> str:
-    s = series.replace("", pd.NA).dropna()
-    return str(s.iloc[0]) if len(s) else "unknown"
-
-
 def bias_check(retrieved_ids: list[str], pool: pd.DataFrame) -> dict:
     """Compare the retrieved set against the whole pool on labelled attributes."""
     pool = pool.fillna("")
     retrieved = pool[pool["id"].isin(retrieved_ids)]
     n_pool, n_ret = len(pool), len(retrieved)
+    top5_colleges = set(
+        pool["college"].replace("", pd.NA).dropna().value_counts().head(5).index)
     attrs = {
         "graduation cohort": pool["grad_year"].map(_cohort),
-        "college": pool["college"].map(lambda c: _top_value(pd.Series([c]))),
-        "location": pool["location"].map(lambda c: _top_value(pd.Series([c]))),
+        "college": pool["college"].map(lambda c: _college_group(c, top5_colleges)),
+        "location": pool["location"].map(_city),
         "experience band": pool["years_experience"].map(_exp_band),
     }
     ret_attrs = {
         "graduation cohort": retrieved["grad_year"].map(_cohort),
-        "college": retrieved["college"].map(lambda c: _top_value(pd.Series([c]))),
-        "location": retrieved["location"].map(lambda c: _top_value(pd.Series([c]))),
+        "college": retrieved["college"].map(
+            lambda c: _college_group(c, top5_colleges)),
+        "location": retrieved["location"].map(_city),
         "experience band": retrieved["years_experience"].map(_exp_band),
     }
     report = {"n_pool": n_pool, "n_retrieved": n_ret, "attributes": {}, "flags": []}

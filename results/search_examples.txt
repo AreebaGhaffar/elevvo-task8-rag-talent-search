@@ -1,0 +1,118 @@
+Query: Find me a Junior Data Analyst who knows SQL and Tableau
+
+1. Alok Khandai — Operational Analyst (SQL DBA) Engineer (score 0.596)
+   Skills: ❖ Operating Environment: […] Windows95/98/XP/NT
+❖ Database Tool: SQL Management Studio (MSSQL), Business
+Development Studio, Visual studio 2005
+❖ Database Language: SQL, PL/SQL
+❖ Ticket Tracking Tool:
+   Companies: UNISYS
+   Evidence [WORK EXPERIENCE]: Operational Analyst (SQL DBA) Engineer UNISYS - Bengaluru, Karnataka - July 2016 to Present ❖ Having 3.5 Years of IT experience in SQL Database Administration, System Analysis, Design, Development & Support of MS SQL Ser
+2. Hartej Kathuria — Data Analyst Intern (score 0.588)
+   Skills: Languages & Technologies: Python, R, SQL, NoSQL, Predictive Modelling,
+Market Basket Analysis, Sentimental Analysis, Clustering, Bash
+Scripting (Preliminary), Socket Programming, Java (Preliminary)
+
+•
+   Companies: Oracle Retail
+   Evidence [WORK EXPERIENCE]: Data Analyst Intern Oracle Retail - Bengaluru, Karnataka - June 2017 to Present Job Responsibilities: o As an intern part of the Global Retail Insights team at Oracle Retail, work involved creating a data oriented buisne
+3. Meenalochani Kondya — Systems Engineer (score 0.539)
+   Skills: ASP (1 year), ASP.NET (1 year), MS ASP (1 year), .NET (1 year), ENGINEER (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Languages C#, MVC 4.0, ASP.NET, JavaScript, JQuery, AJAX, Windows
+   Companies: Infosys Bangalore
+   Evidence [GENERAL]: Meenalochani Kondya Systems Engineer, Infosys Bangalore Bangalore Urban, Karnataka - Email me on Indeed: indeed.com/r/Meenalochani- Kondya/81e406bd03e7a6d2 • Completed M.Tech Software Systems with specialization in Data 
+4. Nazish Alam — Consultant (score 0.521)
+   Skills: • Trained on SAP S4 HANA.
+• Having knowledge of Code Push down, CDS view and it's consumption in ABAP.
+• Data Modeling, creation of different type of views.
+• AMDP.
+• ADBC connectivity.
+• Familiar wit
+   Companies: SAP ABAP
+   Evidence [ADDITIONAL INFORMATION]: OTHER TECHNICAL SKILLS • Trained on SAP S4 HANA. • Having knowledge of Code Push down, CDS view and it's consumption in ABAP. • Data Modeling, creation of different type of views. • AMDP. • ADBC connectivity. • Familiar 
+5. Darshan G. — Process associate | Financial Analyst (score 0.514)
+   Skills: Tally | Excel | Cloud application | Oracle application
+   Companies: Oracle | Accenture
+   Evidence [ADDITIONAL INFORMATION]: Technical Skills: Oracle application (Rx11) & Cloud application. Computer skills: MS Excel, Tally Project: Project Title: Education loan scheme in credited system. Company name: Corporation bank, Bangalore Team size: 1
+Query: Java developer with Spring and Oracle experience
+
+1. Imgeeyaul Ansari — Application Developer | java developer (score 0.602)
+   Skills: rogramming Languages :C/C++, angular, java, java servlet, HTML, java script, MySQL, css, jsff.
+
+Operating Systems Linux, Windows, Android
+
+ORM Eclipse Link, Hibernate
+
+Framework & tools :ADF, Eclipse,
+   Companies: Oracle Financial Software Services
+   Evidence [WORK EXPERIENCE]: Application Developer Oracle Financial Software Services - Pune, Maharashtra - August 2016 to Present • Wrote Services in java using data annotation which in turn were used for creating other files using code generation 
+2. Govardhana K — Associate Consultant | Staff Consultant | Senior Consultant | Senior Software Engineer (score 0.601)
+   Skills: Languages: Core Java, Go Lang, Data Structures & Algorithms, Oracle
+PL-SQL programming, Sales Force with APEX.
+Tools: RADTool, Jdeveloper, NetBeans, Eclipse, SQL developer,
+PL/SQL Developer, WinSCP, P
+   Companies: Oracle | Cloud Lending Solutions
+   Evidence [ADDITIONAL INFORMATION]: Technical Proficiency: Languages: Core Java, Go Lang, Data Structures & Algorithms, Oracle PL-SQL programming, Sales Force with APEX. Tools: RADTool, Jdeveloper, NetBeans, Eclipse, SQL developer, PL/SQL Developer, WinSCP
+3. PRASHANTH BADALA — Configuration Engineer | Cloud Engineer | Devops Engineer (score 0.597)
+   Skills: CHEF | AWS | weblogic | Docker | jenkins | devops | maven | svn | git | Linux | Configuration Tools | Cloud | UDeploy,Jenkins | Shell Scripting and Python | Maven 3 | Jenkins 1.6, Hudson | WebLogic 11
+   Companies: Oracle
+   Evidence [EDUCATION]: JDBC Data source and Connection pool configuration with Oracle. Web Logic Administration, Monitoring and Troubleshooting using Admin Console. • Have excellent experience in Client Interaction • Provided on call support f
+4. Palani S — Senior Technology Support Executive (score 0.583)
+   Companies: Infosys
+   Evidence [WORK EXPERIENCE]: Senior Technology Support Executive at Infosys Development - Chennai, Tamil Nadu - May 2015 to Present WORK EXPERINCE • Currently Working as Senior Technology Support Executive at Infosys, Chennai from May 2015 to till d
+5. Sai Patha — Software Engineer | Mule ESB Integration Developer (score 0.580)
+   Skills: Languages Java, Java Script, PL/SQL, SQL SERVER, HTML, XML,
+XSLT
+Application Servers J Boss, Apache Tomcat, Web logic, IBM web sphere
+
+Databases Oracle, SQL SERVER
+
+Development Tools MVC, Singleton, S
+   Companies: Arrow Electronics Inc | Cisco Systems
+   Evidence [GENERAL]: he environment. • Very strong debugging skills. • Expertise in implementing different J2EE design patterns and Java Multi-Threading. • Hands on experience in creating Splunk dashboard, App for production proactive monito
+Query: Software tester who knows Selenium and manual testing
+
+1. Dhanushkodi Raj — Technology Analyst (score 0.658)
+   Skills: Automation Testing Tools: Selenium WebDriver, Cucumber, Maven, Jenkins, Cyara
+Languages/Frameworks: JAVA, Data Driven, Hybrid, Page Object model, SOAP UI, JUnit, TestNG
+(TDD), Gherkin language (BDD), 
+   Companies: Infosys Limited
+   Evidence [EXPERIENCE]: leading & training, Client facing. Proven ability in Selenium WebDriver Automated testing & Frameworks, Page Objects & Hybrid Frameworks, TDD, Gherkin language (BDD), Web testing, Functional testing, Performance & Load t
+2. Arpit Jain — Quality Analyst (score 0.648)
+   Skills: Manual Testing, Protractor, Selenium Webdriver, Automation Testing, API Testing | Manual Testing
+
+JavaScript
+
+Selenium WebDriver
+
+JASMINE
+
+GitHub
+   Companies: ThoughtWorks Technologies
+   Evidence [SKILLS]: Manual Testing, Protractor, Selenium Webdriver, Automation Testing, API Testing LINKS https://github.com/jainarpit https://www.linkedin.com/in/arpitj2402 https://github.com/jainarpit https://www.linkedin.com/in/arpitj240
+3. Jatin Arora — SDET Automation Engineer (score 0.616)
+   Companies: Infosys
+   Evidence [GENERAL]: Jatin Arora SDET Automation Engineer, Infosys - CRD (Capital Group of Companies) Pehowa, Haryana - Email me on Indeed: indeed.com/r/Jatin-Arora/a124b9609f62fbcb 3.6 years of experience in Automation Testing tools like Se
+4. Yasothai Jayaramachandran — Lead Engineer (score 0.579)
+   Skills: Programming Languages Python, TCL, Power Query, SQL, Shell Scripting, C#
+Concepts Networking, WAAS (Wan Optimization), WAAS on Router, WAE(Wide Area Engine),
+WCCP Protocol,
+Automation Framework ATS (A
+   Companies: Cisco Systems | Automation & Testing
+   Evidence [GENERAL]: Yasothai Jayaramachandran Lead Engineer - Automation & Testing Chennai, TAMIL NADU, IN - Email me on Indeed: indeed.com/r/Yasothai-Jayaramachandran/ c36e76b64d9f477f ❖ 4 years of experience in testing methodologies: Auto
+5. Pranay Sathu — Software Test Automation Engineer | Consultant (score 0.575)
+   Skills: C# (Less than 1 year), Database (Less than 1 year), Java (Less than 1 year), JIRA (Less than 1
+year), load runner (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Key Skills:
+
+• Programming Languages: C#, 
+   Companies: Neudesic (Vendor @ Microsoft)
+   Evidence [ADDITIONAL INFORMATION]: Key Skills: • Programming Languages: C#, Java • Automation Testing: Selenium Webdriver, Xamarin.UITest, Protractor, Speflow • Performance Testing: HP Load Runner (True Client protocol) • Software Testing: Test Scripts, T

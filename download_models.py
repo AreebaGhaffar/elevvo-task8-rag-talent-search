@@ -6,7 +6,7 @@ plain curl downloads the same files from the same Hub URLs at full speed.
 Files land in models/<model-id>/ and are used directly, e.g.:
 
     SentenceTransformer("models/sentence-transformers/all-MiniLM-L6-v2")
-    pipeline("text2text-generation", model="models/google/flan-t5-base")
+    pipeline("text2text-generation", model="models/Qwen/Qwen2.5-0.5B-Instruct")
 
 File lists were taken from the Hub API (https://huggingface.co/api/models/<id>)
 on 2026-11-11. safetensors is preferred over pytorch_model.bin where both
@@ -33,14 +33,14 @@ MODELS = {
         "tokenizer_config.json",
         "vocab.txt",
     ],
-    "google/flan-t5-base": [
+    "Qwen/Qwen2.5-0.5B-Instruct": [
         "config.json",
         "generation_config.json",
+        "merges.txt",
         "model.safetensors",
-        "special_tokens_map.json",
-        "spiece.model",
         "tokenizer.json",
         "tokenizer_config.json",
+        "vocab.json",
     ],
 }
 

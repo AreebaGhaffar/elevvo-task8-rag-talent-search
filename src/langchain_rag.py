@@ -7,7 +7,7 @@ models and the same ChromaDB collection:
 
   - langchain_chroma.Chroma + langchain_huggingface.HuggingFaceEmbeddings
     (local all-MiniLM-L6-v2) for retrieval
-  - langchain_huggingface.HuggingFacePipeline (local flan-t5-base) for
+  - langchain_huggingface.HuggingFacePipeline (local Qwen2.5-0.5B-Instruct) for
     the LLM fit summary, via a RetrievalQA-style chain
 
 Usage:  python -m src.langchain_rag "Junior Data Analyst who knows SQL and Tableau"
@@ -22,7 +22,7 @@ from transformers import pipeline as hf_pipeline
 from . import resume_store
 
 EMBED_MODEL = resume_store.EMBED_MODEL
-LLM_MODEL = "models/google/flan-t5-base"
+LLM_MODEL = "models/Qwen/Qwen2.5-0.5B-Instruct"
 
 
 def build_chain(k: int = 3):
@@ -33,12 +33,12 @@ def build_chain(k: int = 3):
         embedding_function=embeddings)
     retriever = vectorstore.as_retriever(search_kwargs={"k": k})
     llm = HuggingFacePipeline(pipeline=hf_pipeline(
-        "text2text-generation", model=LLM_MODEL,
-        max_new_tokens=160, do_sample=False, device=-1))
+        "text-generation", model=LLM_MODEL,
+        max_new_tokens=120, do_sample=False, device=-1))
     prompt = PromptTemplate.from_template(
-        "Job requirement: {question}\n\nRetrieved candidate excerpts:\n{context}\n\n"
-        "In two sentences per candidate, explain why each candidate fits "
-        "the job requirement, using only the facts above.")
+        "Summarize each candidate's experience in one sentence, using only "
+        "the excerpts below, for the job requirement: {question}\n\n"
+        "Retrieved candidate excerpts:\n{context}\n\nSummary:")
     return retriever, llm, prompt
 
 

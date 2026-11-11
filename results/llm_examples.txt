@@ -1,0 +1,85 @@
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Query: Find me a Junior Data Analyst who knows SQL and Tableau
+
+1. Alok Khandai — Operational Analyst (SQL DBA) Engineer (score 0.596)
+   Skills: ❖ Operating Environment: […] Windows95/98/XP/NT
+❖ Database Tool: SQL Management Studio (MSSQL), Business
+Development Studio, Visual studio 2005
+❖ Database Language: SQL, PL/SQL
+❖ Ticket Tracking Tool:
+   Companies: UNISYS
+   Evidence [WORK EXPERIENCE]: Operational Analyst (SQL DBA) Engineer UNISYS - Bengaluru, Karnataka - July 2016 to Present ❖ Having 3.5 Years of IT experience in SQL Database Administration, System Analysis, Design, Development & Support of MS SQL Ser
+2. Hartej Kathuria — Data Analyst Intern (score 0.588)
+   Skills: Languages & Technologies: Python, R, SQL, NoSQL, Predictive Modelling,
+Market Basket Analysis, Sentimental Analysis, Clustering, Bash
+Scripting (Preliminary), Socket Programming, Java (Preliminary)
+
+•
+   Companies: Oracle Retail
+   Evidence [WORK EXPERIENCE]: Data Analyst Intern Oracle Retail - Bengaluru, Karnataka - June 2017 to Present Job Responsibilities: o As an intern part of the Global Retail Insights team at Oracle Retail, work involved creating a data oriented buisne
+3. Meenalochani Kondya — Systems Engineer (score 0.539)
+   Skills: ASP (1 year), ASP.NET (1 year), MS ASP (1 year), .NET (1 year), ENGINEER (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Languages C#, MVC 4.0, ASP.NET, JavaScript, JQuery, AJAX, Windows
+   Companies: Infosys Bangalore
+   Evidence [GENERAL]: Meenalochani Kondya Systems Engineer, Infosys Bangalore Bangalore Urban, Karnataka - Email me on Indeed: indeed.com/r/Meenalochani- Kondya/81e406bd03e7a6d2 • Completed M.Tech Software Systems with specialization in Data 
+
+--- LLM fit summary ---
+
+**Alok Khandai** — Fit: PARTIAL (1/2 required skills)
+  LLM summary: The candidate has extensive experience as an Operational Analyst with a focus on SQL database management and reporting tools, having worked for over three years in both the operational and technical roles within a multinational corporation, leveraging their skills across various technologies including SQL, PL/SQL, and Microsoft products.
+  Found: sql | Missing: tableau
+
+**Hartej Kathuria** — Fit: PARTIAL (1/2 required skills)
+  LLM summary: The candidate has demonstrated proficiency in data analysis using Python, R, SQL, NoSQL, market basket analysis, sentiment analysis, clustering, and predictive modeling with tools like R Studio, Git, Sublime Text, MATLAB, Linux, KVM, VirtualBox, OpenVZ, Oracle SQL Developer, MySQL, MongoDB, Excel, and Bash scripting.
+  Found: sql | Missing: tableau
+
+**Meenalochani Kondya** — Fit: PARTIAL (1/2 required skills)
+  LLM summary: The candidate has demonstrated strong technical skills and extensive experience across various technologies, including ASP, ASP.NET, .NET, and SQL Server, with no specific years of experience mentioned.
+  Found: sql | Missing: tableau
+
+_(LLM backend: local Qwen2.5-0.5B-Instruct; fit verdicts are computed from the annotated skills, not generated — see README)_
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Query: Java developer with Spring and Oracle experience
+
+1. Imgeeyaul Ansari — Application Developer | java developer (score 0.602)
+   Skills: rogramming Languages :C/C++, angular, java, java servlet, HTML, java script, MySQL, css, jsff.
+
+Operating Systems Linux, Windows, Android
+
+ORM Eclipse Link, Hibernate
+
+Framework & tools :ADF, Eclipse,
+   Companies: Oracle Financial Software Services
+   Evidence [WORK EXPERIENCE]: Application Developer Oracle Financial Software Services - Pune, Maharashtra - August 2016 to Present • Wrote Services in java using data annotation which in turn were used for creating other files using code generation 
+2. Govardhana K — Associate Consultant | Staff Consultant | Senior Consultant | Senior Software Engineer (score 0.601)
+   Skills: Languages: Core Java, Go Lang, Data Structures & Algorithms, Oracle
+PL-SQL programming, Sales Force with APEX.
+Tools: RADTool, Jdeveloper, NetBeans, Eclipse, SQL developer,
+PL/SQL Developer, WinSCP, P
+   Companies: Oracle | Cloud Lending Solutions
+   Evidence [ADDITIONAL INFORMATION]: Technical Proficiency: Languages: Core Java, Go Lang, Data Structures & Algorithms, Oracle PL-SQL programming, Sales Force with APEX. Tools: RADTool, Jdeveloper, NetBeans, Eclipse, SQL developer, PL/SQL Developer, WinSCP
+3. PRASHANTH BADALA — Configuration Engineer | Cloud Engineer | Devops Engineer (score 0.597)
+   Skills: CHEF | AWS | weblogic | Docker | jenkins | devops | maven | svn | git | Linux | Configuration Tools | Cloud | UDeploy,Jenkins | Shell Scripting and Python | Maven 3 | Jenkins 1.6, Hudson | WebLogic 11
+   Companies: Oracle
+   Evidence [EDUCATION]: JDBC Data source and Connection pool configuration with Oracle. Web Logic Administration, Monitoring and Troubleshooting using Admin Console. • Have excellent experience in Client Interaction • Provided on call support f
+
+--- LLM fit summary ---
+
+**Imgeeyaul Ansari** — Fit: STRONG (2/2 required skills)
+  LLM summary: The candidate has demonstrated proficiency in Java programming, including knowledge of C/C++ and Angular, as well as experience with MySQL, JavaScript, and CSS.
+  Found: java, oracle | Missing: none
+
+**Govardhana K** — Fit: STRONG (2/2 required skills)
+  LLM summary: The candidate has extensive experience as an Associate Consultant specializing in software development, including expertise in core Java, Go Lang, data structures and algorithms, Oracle PL-SQL programming, sales force with APEX, and web technologies such as JavaScript, XML, HTML, and webservice operations.
+  Found: java, oracle | Missing: none
+
+**PRASHANTH BADALA** — Fit: WEAK (0/2 required skills)
+  LLM summary: The candidate has demonstrated expertise across various cloud technologies, including Chef, AWS, weblogic, Docker, Jenkins, DevOps, Maven, Git, SVN, JUnit, and other development tools, with a focus on continuous integration and deployment (CI/CD) using tools like UDeploy, Jenkins, and Hudson.
+  Found: none | Missing: java, oracle
+
+_(LLM backend: local Qwen2.5-0.5B-Instruct; fit verdicts are computed from the annotated skills, not generated — see README)_
